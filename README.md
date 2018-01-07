@@ -27,3 +27,5 @@ Instructions:
 
 
 4. Follow the on screen instructions
+
+![Alt text](BTP\ 1.png?raw=true "BTP1")
