@@ -28,4 +28,6 @@ Instructions:
 
 4. Follow the on screen instructions
 
-![Alt text](BTP\ 1.png?raw=true "BTP1")
+![Alt text](BTP1.png?raw=true "BTP1")
+![Alt text](BTP2.png?raw=true "BTP2")
+![Alt text](BTP3.png?raw=true "BTP3")
