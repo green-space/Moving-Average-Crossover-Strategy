@@ -28,6 +28,6 @@ Instructions:
 
 4. Follow the on screen instructions
 
-![Alt text](BTS1.png?raw=true "BTS1")
-![Alt text](BTS2.png?raw=true "BTS2")
-![Alt text](BTS3.png?raw=true "BTS3")
+![Alt text](BTS1.jpeg?raw=true "BTS1")
+![Alt text](BTS2.jpeg?raw=true "BTS2")
+![Alt text](BTS3.jpeg?raw=true "BTS3")
